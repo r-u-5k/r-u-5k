@@ -1,4 +1,5 @@
-📚 STACKS
+<div align=center><h1>📚 STACKS</h1></div>
+<div align=center> 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <br />
@@ -17,7 +18,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <br />
-
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-u-5k&langs_count=8)](https://github.com/r-u-5k/github-readme-stats)<br />
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yj9928)](https://solved.ac/yj9928)<br />
 <!--
