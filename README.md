@@ -46,3 +46,9 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yj9928)](https://solved.ac/yj9928)
   <br />
 </div>
+<div align=center>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-u-5k&count_private=true&show_icons=true&theme=radical)
+  <br />
+</div>
+
