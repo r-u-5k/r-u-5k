@@ -38,7 +38,7 @@
 <br />
 <div align=center>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-u-5k&langs_count=8&hide=html,css,typescript,jupyter-notebook)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-u-5k&langs_count=8&hide=typescript,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
   <br />
 </div>
 <div align=center>
